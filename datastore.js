@@ -16,7 +16,7 @@ const STORE = [
         question: 'Which species was the first to discover warp drive?',
         answers: [
             'Vulcans',
-            'Kilngons',
+            'Klingons',
             'Humans',
             'Borg'
         ],

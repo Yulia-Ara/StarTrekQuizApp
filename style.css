@@ -3,13 +3,13 @@
     font-family: 'Space Mono', monospace;
 }
 
-html, body {
+/* html, body {
     height: 100%;
     padding: 0;
     margin: 0;
     min-height: 100%;
     
-}
+} */
 body {
     background: url('photos/backgroundImg5.jpg') no-repeat center center fixed;
     background-size: cover; 
